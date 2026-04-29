@@ -90,8 +90,7 @@
 - 파트장들의 코드 리뷰 및 approve 후에 main 브랜치로 merge 가능합니다.
 
   - 반영이 완료되거나 끝난 리뷰이면 `Resolve Conversation`을 눌러 처리해주세요
-    ![img](https://github.com/user-attachments/assets/df70680c-32a0-47be-8731-5e6b3076c4be)
-
+    <img width="768" height="508" alt="화면 캡처 2026-04-29 222959" src="https://github.com/user-attachments/assets/0926f627-c86a-494d-b241-9422e335bd4a" />
 <br>
 
 ### ❓ 궁금한 점 있으시면 언제든 편하게 말씀해주세요!
