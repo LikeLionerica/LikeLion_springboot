@@ -63,7 +63,7 @@
 
 > PR 제목 : N주차 미션_본인이름 (예: 1주차 미션_임종헌)
 
-<img width="1020" alt="스크린샷 2025-03-16 오후 2 59 37" src="https://github.com/user-attachments/assets/f069f50e-96c5-4265-b909-56a73d506965" />
+<img width="768" height="508" alt="화면 캡처 2026-04-29 222959" src="https://github.com/user-attachments/assets/0926f627-c86a-494d-b241-9422e335bd4a" />
 
 <br>
 <br>
