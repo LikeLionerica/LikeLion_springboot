@@ -14,7 +14,7 @@
 
 3. PBL미션 주차별 디렉토리 생성 후 미션 수행
    
-   <img width="345" alt="스크린샷 2025-03-16 오후 2 25 11" src="https://github.com/user-attachments/assets/17399cfb-65ea-4f23-8be2-306d78df1027" />
+   <img width="768" height="508" alt="화면 캡처 2026-04-29 222959" src="https://github.com/user-attachments/assets/4522ddec-098c-4aec-a62b-90e7e34a4443" />
 
    ❗ 반드시 본인 이름으로 된 브랜치 `후이/박희웅`의 디렉토리 `후이-박희웅` 내에서 작업해주세요!
 
