@@ -4,7 +4,7 @@
 
 1. **저장소 복제 (clone)**
    ```bash
-   git clone https://github.com/LikeLionerica/LikeLion_springboot.git
+   git clone https://github.com/LikeLion14th-ERICA/SpringBoot.git
    ```
 2. 본인 브랜치로 이동
 
