@@ -1,6 +1,6 @@
 package week_4;
 
-abstract class Role implements policy
+abstract class Role implements policy, Comparable<Role>
 {
     private final String role;
     private final String name;
@@ -38,6 +38,13 @@ abstract class Role implements policy
     String getName() { return name; }
     String getRole() { return role; }
     int getNumber() { return number; }
+
+    @Override
+    public int compareTo(Role other)
+    {
+        return this.getNumber() - other.getNumber();
+    }
+
     abstract void printInfo();
 }
 
